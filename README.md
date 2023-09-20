@@ -1,4 +1,4 @@
-# scRNAseq-analysis-or-resectable-esophageal-squamous-cell-carcinoma
+# scRNAseq-analysis-of-resectable-esophageal-squamous-cell-carcinoma
 Multi-omics analyses found the expansion of TRGC2+NKT cells in peripheral blood was significantly correlated with neoadjuvant treatment effectiveness. These findings showed preoperative pembrolizumab plus chemotherapy could be a promising therapeutic strategy for resectable ESCC.
 
 # This script reproduces the single cell RNAseq analysis of “Neoadjuvant pembrolizumab combined with chemotherapy for resectable esophageal squamous cell carcinoma: the phase 2 Keystone-001 trial”
